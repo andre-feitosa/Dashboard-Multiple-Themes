@@ -1,0 +1,13 @@
+.Layout {
+    color: var(--txt-color);
+}
+
+.Layout_content {
+    padding-left: var(--sidebar-width);
+    background-color: var(--second-bg);
+    min-height: 130vh;
+}
+
+.Layout_content_main {
+    padding: 30px;
+}
